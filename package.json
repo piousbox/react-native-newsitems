@@ -1,0 +1,24 @@
+{
+  "name": "react-native-newsitems",
+  "version": "0.0.0",
+  "description": "Renders a ui of a newsitem list - for whatever purpose. Allows customization to hook in any backend.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/piousbox/react-native-newsitems.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "newsitems"
+  ],
+  "author": "Victor Pudeyev <victor@wasya.co>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/piousbox/react-native-newsitems/issues"
+  },
+  "homepage": "https://github.com/piousbox/react-native-newsitems#readme"
+}
