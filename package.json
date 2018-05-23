@@ -1,6 +1,6 @@
 {
   "name": "react-native-newsitems",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Renders Newsitems & Co",
   "main": "index.js",
   "scripts": {
@@ -8,5 +8,9 @@
   },
   "repository": "https://github.com/piousbox/react-native-newsitems.git",
   "author": "Victor Pudeyev",
-  "license": "MIT"
+  "license": "MIT",
+  "peerDependencies": {
+    "native-base": "^2.4.5",
+    "react": "^16.3.2"
+  }
 }
