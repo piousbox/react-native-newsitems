@@ -1,4 +1,4 @@
 0.0.3 - node_modules is in
 0.0.4 - node_modules is out
 0.0.5 - peerDependencies?
-
+0.0.6 - color change
