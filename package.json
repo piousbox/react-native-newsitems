@@ -1,13 +1,13 @@
 {
   "name": "react-native-newsitems",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Renders Newsitems & Co",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Victor Pudeyev",
+  "license": "MIT",
   "dependencies": {
     "native-base": "^2.4.5",
     "react": "^16.3.2",

@@ -6,7 +6,7 @@ class NewsitemReport extends React.Component<Props, State> {
 	render () {
 		return (
 			<View style={{ backgroundColor: 'green' }}>
-        <Text>{this.props.item.name}</Text>
+        <Text>from npm: {this.props.item.name}</Text>
       </View>
 		)
 	}
